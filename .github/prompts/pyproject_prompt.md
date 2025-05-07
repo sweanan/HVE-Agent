@@ -1,0 +1,1 @@
+Create a new file pyproject.toml with [project] table and list all the dependencies required for running tictactoe.ipynb in dependencies = [] section of the [project] table. Include ipykernel as well as python version using .python-version file
